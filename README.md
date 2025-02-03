@@ -93,12 +93,6 @@ The model is evaluated using **classification accuracy**:
 - **Accuracy = (Correct Predictions) / (Total Test Samples)**
 - Expected accuracy: **~80%**
 
----
-
-## 🛠 Future Improvements
-- Experiment with **Graph Attention Networks (GAT)** for better performance.
-- Use **larger graph datasets** like PubMed or Reddit.
-- Apply **semi-supervised learning** for better generalization.
 
 ---
 
